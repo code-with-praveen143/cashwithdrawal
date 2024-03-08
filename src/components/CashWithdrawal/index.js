@@ -16,7 +16,7 @@ class CashWithdrawal extends Component {
   render() {
     const {denominationsList} = this.props
     const {balance} = this.state
-    const name = 'Sarah Williams'
+    const name = 'Praveen Kumar'
     const initial = name.slice(0, 1)
 
     return (
